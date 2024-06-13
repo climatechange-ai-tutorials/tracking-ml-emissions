@@ -2,9 +2,9 @@
 Learn how to measure a machine learning model's carbon footprint and practice strategies that can help shrink the energy involved in training these models.
 
 Author:
-* Mel Hanna, CCAI: mel@climatechange.ai
+* Mel Hanna, Climate Change AI: mel@climatechange.ai
 
-Originally presented at CCAI Summer School 2023
+Originally presented at Climate Change AI Summer School 2023
 
 ## Access this tutorial
 
